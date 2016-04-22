@@ -1,0 +1,6 @@
+## Interface: 60200
+## Title: Z-UI: Core
+## Notes: The Core of the All in One UI made by Zanges!
+## Version: 1.0
+Lua\Z-UI_Core.lua
+XML\Z-UI_Core.xml
